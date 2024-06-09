@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, "../frontend/dist")));
 
 dotenv.config();
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4001;
 console.log(`Configured PORT: ${PORT}`); // Debug information
 
 
