@@ -49,7 +49,7 @@ BookStore-App is a comprehensive web application designed to facilitate the buyi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BookStoreApp.git
+   git clone https://github.com/ParmS-Musale/BookStoreApp.git
 
 2. Navigate to the frontend directory:
    ```bash
